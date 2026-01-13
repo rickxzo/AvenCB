@@ -1,0 +1,7 @@
+flask
+pinecone
+replicate
+flask-cors
+python-dotenv
+langgraph
+typing-extensions
