@@ -10,7 +10,7 @@ export default defineConfig({
     host: "0.0.0.0",
     port: process.env.PORT || 5173,
     allowedHosts: [
-      "port-code.onrender.com"
+      "avencbot.onrender.com"
     ]
   },
   plugins: [vue()],
